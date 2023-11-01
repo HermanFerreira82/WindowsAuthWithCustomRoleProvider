@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FzJ8UMGx6sCfFDWCWBrqUy7t/sSAOxnlcT9PWMYtLnQ=",
+  "Source": "WindowsAuthWithCustomRoleProvider",
+  "BasePath": "_content/WindowsAuthWithCustomRoleProvider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
